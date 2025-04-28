@@ -2,9 +2,9 @@
 
 ## Overview
 This project aims to address the challenges of stock management in schools and institutions.  
-Managing stock manually with paper and pen often leads to inefficiencies and errors, so I set out to create a simple, usable digital solution to ease the transition.
+Managing stock manually with paper and pen often leads to inefficiencies, errors and endless frustration, so I set out to create a simple, userfriendly digital solution to ease the transition.
 
-To understand the real-world needs, I consulted with my school's stock administrator and gathered insights on the expectations and challenges they face.
+To understand the real-world needs, I consulted with a member of my school's lab stock administrative team and gathered insights on the expectations and challenges they face.
 
 ## Features
 - **Detailed Stock Logs**:  
