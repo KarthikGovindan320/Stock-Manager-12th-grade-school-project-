@@ -3,16 +3,6 @@ import sys
 import io
 import pip
 from subprocess import call
-
-try:
-    sys.stdout = io.StringIO()
-    sys.stderr = io.StringIO()
-
-    call("python -m pip install --upgrade pip".split())
-    pip.main(['install', 'customtkinter', 'mysql-connector-python', 'opencv-python', 'numpy', 'pynput', 'openai', 'Pillow', 'smtplib', 'email', 'sydney'])
-except:
-    pass
-
 import customtkinter as ctk
 import re
 import threading
