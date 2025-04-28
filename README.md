@@ -20,7 +20,7 @@ To understand the real-world needs, I consulted with a member of my school's lab
     - Damaged
     - Repaired
   - Records the monetary value of each item.
--docs.google.com/document/d/1ibhglghb-s8SCi_QxWc4AQ2DGQza0oAIpNywXIa93kc
+  - docs.google.com/document/d/1ibhglghb-s8SCi_QxWc4AQ2DGQza0oAIpNywXIa93kc
 - **Responsibility Management**:
   - Keeps track of which staff members are responsible for which stock items.
   - Ensures that faculties can manage only the stock directly under their department's control.
