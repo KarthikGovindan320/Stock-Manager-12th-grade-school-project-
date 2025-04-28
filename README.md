@@ -36,3 +36,5 @@ To understand the real-world needs, I consulted with a member of my school's lab
 This is a Python-based stock management project hosted on GitHub.  
 The goal is to create an easy, efficient alternative to traditional stock tracking methods.
 
+Disclamer : The version of the program reflected in the given code is not the latest version, due to conserns of system compatebility and client security. Contact me for a video demostration of the latest verion along with its source code.
+
