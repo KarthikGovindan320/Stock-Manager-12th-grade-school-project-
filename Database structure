@@ -1,0 +1,7 @@
+Database ->  DBname
+
+Table Names : 
+  1) Issued ![Issued table schema](assets/issued.png)
+  2) Logs ![Logs table schema](assets/logs.png)
+  3) Tables ![Tables table schema](assets/tables.png)
+  4) Users ![Users table schema](assets/users.png)
