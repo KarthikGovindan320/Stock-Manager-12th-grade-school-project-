@@ -1,0 +1,6 @@
+1) Latest version of python with pip enabled
+2) A stable internet connection, throughout the usage of the program
+3) Any private database with its desegnated url, db name, password, which have to be updated accordingly in the code. (I use phpmyadmin online database with a dedicated url, but localhost would be fine)
+4) Default file writing permission on your operating system
+
+Any problems with the program might be due to one or more of these prerequisites are not met. Contact me for any help on the same
